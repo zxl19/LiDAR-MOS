@@ -189,6 +189,10 @@ planning. By using our MOS predictions as masks, we can effectively remove these
 
 <img src="data/pics/map_raw.png" width="400"> <img src="data/pics/map_clean.png" width="400">
 
+#### Map cleaning
+For offline map cleaning, **Giseop Kim** combined his [Removert](https://github.com/irapkaist/removert) and LiDAR-MOS, and got very good results.
+More information can be found in [#28](https://github.com/PRBonn/LiDAR-MOS/issues/28).
+
 
 ## Collection of downloads
  - [LiDAR_MOS_toy_dataset](https://www.ipb.uni-bonn.de/html/projects/LiDAR-MOS/LiDAR_MOS_toy_dataset.zip)                           (toy dataset used for the quick demos)
